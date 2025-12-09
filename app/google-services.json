@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "776719320880",
+    "firebase_url": "https://post8pmob-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "post8pmob",
+    "storage_bucket": "post8pmob.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776719320880:android:6b46c3c991e2ce5d772af5",
+        "android_client_info": {
+          "package_name": "com.ananda.post8pmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLABv_48qIzbm5l3je6sJ6tf_KzCENiXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
